@@ -23,13 +23,13 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  new_array[2]
+  array[2]
 end
 
 def retrieve_first_element_from_array(array)
-  new_array.first
+  array.first
 end
 
 def retrieve_last_element_from_array(array)
-  new_array.last
+  array.last
 end
